@@ -1,0 +1,38 @@
+Finesse Shot
+Speed Dribbler (CPU AI Only)
+One Club Player
+Team Player
+Power Free-Kick
+Flair
+Long Shot Taker (CPU AI Only)
+Diver
+Injury Prone
+Avoids Using Weaker Foot
+Selfish
+Chip Shot (CPU AI Only)
+Leadership
+Technical Dribbler (CPU AI Only)
+GK Up for Corners
+GK Long Throw
+1-on-1 Rush
+Beat Offside Trap
+Injury Free
+Playmaker (CPU AI Only)
+Power Header
+Dives Into Tackles (CPU AI Only)
+Long Passer (CPU AI Only)
+Outside Foot Shot
+Puncher
+Giant Throw-in
+Long Throw-in
+Early Crosser
+Swerve Pass
+Rushes Out Of Goal
+Comes For Crosses
+Backs Into Player
+Target Forward
+Set Play Specialist
+Cautious With Crosses
+Takes Finesse Free Kicks
+Through Ball
+Saves with Feet
