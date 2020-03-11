@@ -1,0 +1,2448 @@
+The entire roster of players who can be swapped for the Goalkeeper position in order of best overall performance to least based on the RandomForestEnsembleare:单欢欢
+Alessandro De Angelis
+George Sykes-Kenworthy
+Vegard Storsve
+Cameron Painter
+Connor Heath
+Hannes Sveijer
+Paul Martin
+박한근 Han Geun Park
+Liam Armstrong
+Safet Alic
+Nico Stephan
+Giacomo Figliuzzi
+David Harrington
+Ollie Battersby
+Patryk Królczyk
+周挺
+Seung Yeop Lee
+Zilei Jiang
+Arthur Janata
+Basil Sinzig
+何宇鹏
+Matthis Harsman
+Zhifeng Wang
+Lamin Jagne
+Devlin Mackay
+Gianmarco Chironi
+Andrew Mills
+Macklin Freke
+Matthew Sutton
+Jackson Lee
+Oliver Funch
+Eren Bilen
+张劲一
+Jędrzej Grobelny
+滕尚坤
+黄聪
+Jack Livesey
+陈钊
+Callum Hawkins
+Jimmy Hague
+Hüseyin Altıntaş
+Lukas Schellenberg
+Hans Christian Bernat
+Finley Iron
+Matthew Connor
+Diego Berchtold
+Freddie Lapworth
+Furkan Beklevic
+Gavin Sheridan
+Pelle Mattsson
+孙启斌
+Mads Hermansen
+Daniel Retamal
+Joel Raymundo García Chacón
+Thomas Callens
+Niall McGinley
+Demba Thiam
+Lucas Marsella
+Simon Gustafsson
+Ryuhei Yamamoto
+Ben Voll
+Francesco Quintiero
+Adil Titi
+Tom Kretzschmar
+Ewan McFarlane
+Jack Sims
+Maciej Woźniak
+Luke Haines
+Dawid Arndt
+Steven Benda
+Alec Byrne
+Valentin Neacșu
+Mohammad Al Burayh
+Samuele Mulattieri
+Archie Matthews
+Jamie Bell
+Jorge Peña
+Herman Børreson Fossdal
+Joaquín García Epull
+Mads Kikkenborg
+Sam Agius
+Vincent Müller
+Jakub Osobiński
+Isaac Richards
+谷 晃生
+Ellis Allen
+Emil Harloff
+Magnus Hee Westergaard
+Ryan Teague
+Gary Maley
+Thomas Romboli
+金波
+Meshari Sanyor
+Sönke Günther
+Yiğit Kafkasyali
+刘世博
+Benjamin Machini
+Alexis André Jr
+Tom Murphy
+Jacopo Pagnini
+Erlend Jacobsen
+Ashley Maynard-Brewer
+Raghid Al Najjar
+Zaid Majed Al Bawardi
+Paweł Żyra
+Ángel Fraga Camba
+Daniel Andersen
+Murat Can Yıldız
+TJ Bramble
+Jhan Carlos Cuero Solis
+Magnus Dalsgaard
+Nicolás Forastiero
+Jordi Schelfhout
+Curtis Lyle
+David Nreca-Bisinger
+Laurenz Beckemeyer
+Kyle Gourlay
+Ross Anthony Treacy
+Majed Al Ghamdi
+Luke McNicholas
+Zach Hemming
+Leon Pöhls
+Camilo Rozas
+Albert Popa
+Bradley Lashley
+Erik Johannes Arnebrott
+Erik Hejer
+Sam Sargeant
+Jack Stevens
+Michael Nelson
+Joachim Imbrechts
+Mattia Scevola
+Simon Bækgård
+Jason Beaulieu
+Greg Ranjitsingh
+Julio Junior Bórquez Hernández
+Gabriel Sarria
+陈俊林
+Lucio Soldini
+Will Henry
+Wallace Duffy
+Carl Leonhard
+Gianmarco Vannucchi
+Arthur Lyska
+Mads Christiansen
+Maxim Deman
+Jakob Odehnal
+铃木 吉竹
+Jozef Pukaj
+温智翔
+Goh Dong Min
+Marcel Köstenbauer
+Luis Zamudio
+Bayleigh Passant
+三浦 龍輝
+Andres Gudiño
+Sander Thulin
+Moataz Al Baqawi
+Oleg Gorin
+Petar Đurin
+Brayan Manosalva
+王敏
+Marcus Dewhurst
+이현우 李炫雨
+Rafael Ferrario
+이동희 Dong Hee Lee
+Mario Schragl
+Louis Pelletier
+Paul Grave
+施晓东
+George McMahon
+照山 颯人
+Davy Rouyard
+Jian Wei
+Florentin Bloch
+石井 綾
+Nawaf Al Ghamdi
+Lukas Sedlak
+Jacob Widell Zetterström
+Kjetil Haug
+Leandro Finochietto
+이광연 Gwang Yeon Lee
+Kevin Ibrahim
+Jens Craenmehr
+Rasmus Sandberg
+Basil Al Bahrani
+Tomás Durso
+Joaquín Hass
+齐雨熙
+Alexander Nilsson
+Jake Greatorex
+Michael Wagner
+张岩
+Noah James
+Simone Barone
+Wille Jakobsson
+Jordi van Stappershoef
+Dayne St. Clair
+Julius Lindgren
+Matthew Alexander
+Jamie Cumming
+Rhys Lovett
+Connor Metcalfe
+Marcelo Suárez
+David Ochoa
+Kacper Krzepisz
+Michael Luyambula
+Peter Burke
+Abdulsamed Damlu
+Saleh Al Wehimid
+Noha Sylvestre
+Morten Frendrup
+Miro Muheim
+Robin Källman
+Kevin Ackermann
+Billy Crellin
+Ștefan Fara
+Dale Gorman
+Jonas Brendieck
+Pablo Cárdenas
+Luke Pilling
+Juan José Echave
+Brandon Lauton
+Iván Martínez Marqués
+Dominique Youfeigane
+Lorenz Otto
+Sotiris Alexandropoulos
+Camilo Díaz
+Frederik Ibsen
+Simon Beccari
+松本 大弥
+Loïc Jacot
+高天意
+Richie O'Farrell
+内田 拓哉
+Oliver Ottesen
+Luis Gabriel Rivas Mosquera
+Arno Valkenaers
+Bradley Wade
+Ágoston Kiss
+Ryan Sandford
+茂木 秀
+Rakan Al Najjar
+Ellis Iandolo
+Phillip Ejimadu
+Mathias Rosenørn
+Nathan Gartside
+Nikolas Dyhr
+Tom Amos
+Daniel Grimshaw
+Vincenzo Venditti
+李晨
+Ahmadou Dia
+赵英杰
+Kastriot Imeri
+Mark McGinley
+Wojciech Muzyk
+阿波加 俊太
+Maxime Wenssens
+Ionuț Pop
+田尻 健
+Josh Koroma
+Innes Cameron
+Brian Maher
+荻 晃太
+梅田 透吾
+Oliver Petersen
+Rodrigo Ignacio Yáñez Castillo
+Christoph Haas
+Trey Muse
+Ricardo Gutiérrez
+Emil Varhaugvik Breivik
+Samuel Brolin
+이준희 Joon Hee Lee
+Emre Selen
+Fabián Cantillo
+Wei Guo
+Robin Jalving
+川浪 吾郎
+吉丸 絢梓
+藤井 陽也
+Louis Gray
+Pengfei Mu
+Hamad  Hawsawi
+Hugo Constant
+Roman Birjukov
+Jojo Wollacott
+Ibrahim Karamoko
+川俣 慎一郎
+Alex Palmer
+Habib Al Watyan
+Yahia Fofana
+황성민 Sung Min Hwang
+Dario Marzino
+Lucas Dias
+Florian Kastenmeier
+Justin Roth
+Luka Kukić
+İsmail Ünal
+Jon Gallagher
+Andy Fisher
+Diant Ramaj
+Ali Al Hassan
+Mun Kyung Gun
+Tim Rönning
+Pablo Benítez Alveal
+Dion Sanderson
+杨万顺
+Shoubo Sun
+Adam Grinwis
+Alex Bradley
+Matt Bersano
+Camilo Andrés Ariza Ávila
+명준재 Joon Jae Myeong
+Philipp Bachmeier
+Tadhg Ryan
+Andre Rawls
+林 瑞輝
+Adrian Kappenberger
+Wilfried Bedfian
+Albie Morgan
+Ryan Watson
+沖 悠哉
+樋口 雄太
+Josef Bursik
+Miguel Ospino
+Patrik Gunnarsson
+Théo Vermot
+涉谷 飞翔
+Louis Jones
+Lukas Wackerle
+Michał Trąbka
+吴少聪
+이승규 Seung Kyu Lee
+Niall Corbet
+Cristian Arco Cabello
+John Russell
+Frederik Schram
+Conor Kearns
+Luis Quintero
+髙木 和彻
+Kristoffer Askildsen
+Kyle Zobeck
+Matthias Minder
+Oskar Snorre
+Jason Law
+Omar Rodríguez
+Ángel Alonzo
+Corey O'Keeffe
+Lorenzo Ruggiero
+馬渡 洋樹
+鲍亚雄
+Marcelo Agustín Miño
+Ciarán Gallagher
+Thomas Heward-Belle
+Tomás Ahumada
+Javier Almerge Viñuales
+Jonas Dakir
+沈俊
+Connor van den Berg
+方镜淇
+Boris Essele
+Cristian Pizarro
+Abdullah Al Bahri
+Jarno De Smet
+ポープ・ウィリアム
+Dong Kyung Lee
+William Jääskeläinen
+James Morton
+Nicolás Araya
+Rene Gilmartin
+Octavio Patiño
+Dominik Budzyński
+Hassani Dotson
+Andreas Hansen
+Bowen Huang
+Nawaf Al Farshan
+Ryan Schofield
+Ouparine Djoco
+Ianoș Brînză
+Daryl Fordyce
+Youri Schoonderwaldt
+Egil Selvik
+최영은 Young Eun Choi
+Giacomo Poluzzi
+Eliezer Ira Tape
+Guillaume Dietsch
+Aubin Long
+Cameron Yates
+Hubert Gostomski
+孙乐
+姚均晟
+Michael Lansing
+Harry Isted
+Jeison Truque
+Falah Waleed
+Marian Prinz
+Christopher Giuliani
+イサカ ゼイン
+Ryan Bouallak
+Niklas Klinger
+Joao Paulo Castanheira
+Luis Barraza
+Kasper Thiesson Kristensen
+Jacob Borg
+Enrico Del Prato
+Justin Vom Steeg
+Mathias Karlsson
+Max Johnstone
+Will Collar
+Mike Grim
+Stan Van Dessel
+Mikael Tørset Johnsen
+Javier Alexis Orobio Rincón
+Giacomo Volpe
+Mergim Laci
+Michael Fabrie
+James Delianov
+Thomas Secchi
+Alexander Nadj
+安井 拓也
+Nikita Haikin
+王国明
+Kyriakos Stamatopoulos
+Flemming Niemann
+Cian Coleman
+Laurence Bilboe
+Marco Albertoni
+Marwan Al Haidari
+Kengo Tanaka
+Abdulquddus Attiah
+Jonas Brauti
+Diego Tapia
+Iustin Popescu
+Izaack Powell
+Leon Brüggemeier
+Luca Ashby-Hammond
+이재형 李在衡
+Joshua Mroß
+Simon Enzler
+Mousa Zoulan
+Levin Wanner
+Sergio Rafael Pabón Barros
+Mohammed Al Haeti
+Scott Allardice
+Ramón Pasquel
+Aidan Stone
+李本建
+Mansour Jawhar
+Juan Sebastián Serrano
+Guillermo Pozos
+Carlos Mosquera
+Niclas Thiede
+石川 慧
+Tibo Herbots
+Georgiy Kyrnats
+Daniele Borra
+Robbie McCourt
+Félix Tomi
+Lévi Ntumba
+Jacob Gardiner-Smith
+Max Harrison Sanders
+Marko Soldo
+Marcin Staniszewski
+Michael Cooper
+Michael Netolitzky
+John Popelard
+Leon Schaffran
+Noble Okello
+Iván Smith
+Stuart Moore
+Edward McGinty
+Max Sprang
+Julian Krahl
+Manuel Salaba
+Jan Albrecht
+Dimitar Mitov
+韩锋
+Lassana Diako
+Eric Dick
+Simone Farelli
+Cristóbal Marín
+Dillon Barnes
+Grant Smith
+Juan Jiménez
+Hristo Ivanov
+Jonny Maddison
+Palkesh Nagarajan
+Magnus Blakstad
+Mathias Eriksen Ranmark
+Luis Ignacio Ingolotti
+Christoffer Mafoumbi
+Conor Levingston
+Benjamin Ozegovic
+高华泽
+Mohammed Ahmed Awaji
+Lewis Ward
+Nelson Federico Insfrán
+Lucas Chevalier
+Barry Murphy
+Marian Târșă
+耿晓锋
+Brent Gabriël
+Chunyu Dong
+Viktor Noring
+Lewis Italiano
+Mohammed Al Moqahwi
+Adam Pearce
+Jomaine Consbruch
+Dominik Sváček
+Nikola Tzanev
+Jack Ruddy
+문정인 文政仁
+Bruno Oliveira Bertinato
+Giovanni McGregor
+Magnus Lenes
+Alex Bass
+Jack Keaney
+Morten Sætra
+Killian Le Roy
+张翀
+Franco Pizzicanella
+Ben Trowley
+Léo Leroy
+Enzo Pauchet
+Thomas Vettorel
+Kieran Wallace
+Gary O'Neill
+Carlos Higuera
+Kevin Lidin
+Lino Kasten
+Ignacio Francisco Chicco
+Giuseppe D'Anca
+Ștefan Târnovanu
+Panutche Amadu Pereira Camará
+Federico Adorni
+Ethan Ross
+Roberto Alejandro Salcedo Reynoso
+Joaquin Blazquez
+Antonio Ignacio Torres Carrillo
+Darío Ramos Pinazo
+Sam Hornby
+Joe McDonnell
+Alexander Weidinger
+Jerónimo Manuel Lario Martínez
+Thore Baardsen Pedersen
+John Björkengren
+Lewis Thomas
+高嘉润
+Alfie McCalmont
+Aaron McCarey
+Ryan Wintle
+Jannick Theissen
+Simone Perilli
+Gerardo Daniel Ruiz Barragán
+Julian Faye Lund
+Anatoliy Trubin
+Amund Wichne
+Karol Szymański
+Peter Cherrie
+Simon Janssen
+Marek Kozioł
+Abdul Manaf Nurudeen
+Luca Unbehaun
+Tim Wiesner
+Benjamin McDriscoll
+Clément Libertiaux
+Bartłomiej Kalinkowski
+Jonathan Rasheed
+Angus Thurgate
+권태안 权泰安
+Kees Heemskerk
+张璐
+Victor Ekani
+Davor Blažević
+Sofiane Bouzian
+Javier Rojas
+Vihaan Boral
+Michael Gurski
+Johan Brattberg
+Willem Tomlinson
+Timon Weiner
+Matija Šarkić
+Alberto Cobrea
+Zeus de la Paz
+Aldom Deuro
+Rowen Koot
+韩镕泽
+杜佳
+Andrei Ureche
+Bram Verbong
+Lucas Díaz Parcero
+Filip Lesniak
+Alan Sosa
+Will Mannion
+宮崎 智彦
+Caoimhin Kelleher
+Cammy MacPherson
+Matt Freese
+Kamal Bafounta
+Paul Gartler
+Aldair Alejandro Quintana Rojas
+Brady Scott
+Markus Uusitalo
+Dawood Al Saeed
+Igor Levchenko
+James Pantemis
+Max Crocombe
+Ahmad Al Ruhaili
+Mark Halstead
+Jan Hoekstra
+Jens-lys Cajuste
+Aynsley Pears
+Nicolas Baeza
+Mohammed Al Wakid
+David Richards
+Sam Russell
+Emil Bohinen
+Mihail Aleksandrov Ivanov
+Gavin Bazunu
+Vinícius Ferreira Dias
+Andrés Ariza
+史亮
+西部 洋平
+Maxime Pattier
+Emiliano González
+Tobias Lawal
+Charles Vanhoutte
+Serigne Mor Mbaye
+Cesar Villagra
+Juan Cruz Bolado
+Francois-Joseph Sollacaro
+Matthew Hudson
+Matti Kamenz
+张一
+Pierre Patron
+Owen Evans
+Luke Southwood
+Esteban Salles
+Richie Musaba
+Diego Fernández
+藤嶋 栄介
+Elias Ramírez García
+廣永 遼太郎
+Raphael Sallinger
+朱挺
+Yari Otto
+Ransford Selasi
+Daniel Margush
+王维成
+陈杰
+Andreas Hirzel
+郭全博
+Batuhan Ahmet Şen
+Anton Kanther
+Aaron Hickey
+Martin Minchev
+Laurențiu Popescu
+James Marcinkowski
+Bartłomiej Żynel
+David Da Costa
+Miguel Angel Vargas Mañan
+Hamad Al Mansoury
+武田 洋平
+Kevin Bigler
+Krševan Santini
+Constantin Frommann
+Daniele Cardelli
+Andrei Tîrcoveanu
+Paolo Baiocco
+Daniel Rebollo Franco
+叶尔杰提·叶尔扎提
+Didier Desprez
+Basim Al Baqi
+Jesús Iván  Rodríguez Trujillo
+Conor O'Malley
+Göktuğ Bakırbaş
+Jacob Karlstrøm
+Andrés Ayala
+Paweł Sokół
+Matt Butcher
+Evan Louro
+Mateusz Kuchta
+Marco Bleve
+前川 黛也
+Leon Bätge
+Adam Wilk
+丹野 研太
+Ellery Balcombe
+児玉 剛
+Antonio Valera Salmoral
+Timo Königsmann
+山口 瑠伊
+Kieran O'Hara
+Morten Behrens
+Matías  Borgogno
+Lucian Dumitriu
+Jakub Wrąbel
+Robbe Decostere
+Marcin Bułka
+Francesco Rossi
+杨启鹏
+Kristoffer Klaesson
+Michael Thomas Tallaksen Crowe
+Mark Depta
+Carl Klaus
+Garissone Innocent
+Alexander Sebald
+Pablo Lombo Suárez
+Fabián Alfredo Cerda Valdés
+Yohann Magnin
+Vasilios Xenopoulos
+Dean Lyness
+Christopher Clements
+Koen Bucker
+Michele Cerofolini
+Nikola Mirković
+Sonny Patrick Laiton
+Yannik Bangsow
+Sergio García Vázquez
+Erdinç Karakaş
+Jan-Christoph Bartels
+George Lapslie
+Thomas Glover
+Jake Eastwood
+황병근 黄秉根
+Seny Dieng
+Sosha Makani
+Aldo Maiz
+Federico Costa
+David Cornell
+Callum Burton
+Elhan Kastrati
+Georges Motase Bokwé
+Alessandro Bacci
+Marcos Hernán Peano
+Fahad Al Shammari
+Cole Bassett
+Ali Hassan Al Asmari
+Benedict dos Santos
+Sacha Bastien
+Stefan Bajic
+岩馆 直
+Dušan Melichárek
+Jonny Maxted
+Johan Valencia
+Eugeniu Cebotaru
+Joël Kiassumbua
+Ben Wilson
+Jérémy Aymes
+Roberto Jara Fernandez
+Jeroen Gies
+邹德海
+Wojciech Łuczak
+Simen Lillevik Kjellevold
+Pablo Barredo Calvo
+Jeppe Friborg Simonsen
+Stephan Schimandl
+Tando Velaphi
+Vladyslav Kucheruk
+Waleed Hezam Al Anazi
+Clément Bayiha
+Giles Coke
+Peter Vindahl Jensen
+Mouhamed Mbaye
+Jack Walton
+刘震理
+Michael Kelly
+이승모 Seung Mo Lee
+Robert Lynch Sanchez
+Andrew Putna
+Andrei Marinescu
+Andris Vaņins
+Sixten Mohlin
+Ross Laidlaw
+Thomas Vollnhofer
+Abdullah Al Saleh
+Earl Edwards Jr.
+Alejandro Dos Santos Ferreira
+福島 春樹
+Sami Can Keskin
+波多野 豪
+Brendan Moore
+Rory Watson
+Murat Saglam
+Christopher Dilo
+钟晋宝
+Miłosz Mleczko
+Dániel Gyollai
+Jonathan Klinsmann
+Joan Femenías del Salto
+Budimir Janošević
+Nicolas Lemaître
+Paul Jones
+William David Cuesta Mosquera
+Matthew Acton
+Omar Carabalí
+Dimitar Evtimov
+Fatih Gülmez
+Miguel Ángel Morro Muñoz
+Nathan Trott
+Daniel Merino Correa
+Miguel René Ortega Rodríguez
+Yajun Zhou
+Hodei Oleaga Alarcia
+雷永驰
+Kalle Joelsson
+Matías Borquez
+Xavier Pinoteau
+Álvaro Vallés Rosa
+José Gragera Amado
+Adrian Șut
+Majed Kanabah
+Eduardo Fernández
+Lukáš Hroššo
+Bryan Meredith
+David Vržogić
+郭皓
+Oscar Hedvall
+Marius Funk
+Michael McGlinchey
+Jamie McDonagh
+Ryan Fulton
+Phillip Menzel
+Marcel Engelhardt
+Ben Lundgaard
+Andreas Vaikla
+Reice Charles-Cook
+安藤 骏介
+张烈
+Sebastián Pedroza
+Wílder Mosquera Romaña
+刘洋
+Osman Hadžikić
+圍 謙太朗
+Hussain Abdoh Al Shaian
+Christie Elliott
+Juan Pablo Cozzani
+Horacio Martín Ramírez
+Robin Udegbe
+Hampus Nilsson
+Hasan Hüseyin Acar
+中林 洋次
+Matis Carvalho
+Tom Krauß
+Leo Weinkauf
+Guido Guerrieri
+Felix Adjei
+Kendall Isaiah McIntosh
+张鹭
+Ole Amund Sveen
+Helge Sandvik
+Stephen Bywater
+Julián Guevara
+食野 亮太郎
+志村 滉
+Marcel Holzmann
+Ángel Javier Velasco Benítez
+Trevor Doornbusch
+Giuseppe Stancampiano
+Eryin Alexis Sanhueza Mora
+Joackim Olsen Solberg
+Marco Festa
+Ignacio Otaño Aranburu
+Eric Verstappen
+张修维
+Chris Kane
+Jerónimo Pourtau
+Víctor Cabezas
+Thomas Mikkelsen
+Eray İşcan
+Jari De Busser
+Michael Woud
+Harry Lewis
+杉本 大地
+Hidajet Hankić
+Florian Faist
+Alex Horwath
+Adrián Zendejas Rodríguez
+Mehmet Sak
+Mateusz Bogusz
+Muslim Al Furayj
+Luis Ángel Malagón Velázquez
+Nick Townsend
+Maximiliano Cavallotti
+Brek Shea
+Juan David Valencia Arboleda
+Miro Varvodić
+菅野 孝宪
+Jesús Reguillos Moya
+Andrea Paroni
+Ersin Destanoğlu
+Andrés Mehring
+Mike Havekotte
+Gregor Zabret
+Dinko Horkaš
+Carlos Patricio Cisternas Tobar
+Mark Sykes
+Viljar Myhra
+Ryosuke Kojima
+Dean Brill
+Diego Altube Suárez
+Kevin Wilson Piedrahita Velasco
+Abdullah Hussain Al Oaisher
+Carlos Reinaldo Moreira Alves
+정산 郑山
+James Talbot
+Miguel San Román Ferrándiz
+Tarik Çetin
+Danilo Russo
+David Buchholz
+Dawid Kudła
+Stefan Cleveland
+Thijmen Nijhuis
+Joe Murphy
+Michael Tørnes
+Viljar Helland Vevatne
+Kristian Thorstvedt
+Elliot Parish
+Emanuel Romero
+Stefano Russo
+Octavian Vâlceanu
+Dennis Smarsch
+Mohammed Bu Sanda
+Scott Flinders
+Don Cowie
+Marco van Duin
+髙丘 陽平
+Tino Casali
+Alexandru Buzbuchi
+Ali Ibrahim Al Mazyadi
+Mike Hauptmeijer
+Nick Shinton
+Mark McNulty
+侯森
+Jack Rose
+Carlos Olses
+Gonzalo Collao
+于子千
+Anthony Racioppi
+Florian Stritzel
+Jakub Szumski
+Lukas Watkowiak
+Adam Mieczyslaw Stachowiak
+Grzegorz Sandomierski
+Pier Graziano Gori
+Gary Woods
+Alessandro Berardi
+Jonas Hildebrandt
+Maximilian Reule
+Titas Krapikas
+Konrad Forenc
+Jakub Jakubov
+Steve Arnold
+Rodrigo Zalazar
+Jeffrey de Lange
+Manuel Roffo
+孙世林
+Yaw Ackah
+Luke McCormick
+Liam Roberts
+Lewis Price
+Eric Calvillo
+Mouhamadou Sarr
+Robert Jendrusch
+Gustav Jansson
+Jakub Bursztyn
+Albert-Nicolas Lottin
+Paul Farman
+Arthur Zagre
+Reuf Duraković
+Árpád Tordai
+Matthias Hamrol
+Adam Collin
+Michał Kołba
+Tommi Vaiho
+Julien Fabri
+Lee  Burge
+Erik Figueroa
+隋维杰
+Tom King
+Caio Vinicius Pirana
+Godfried Roemeratoe
+Andrea D'Egidio
+Chris Neal
+Garry Buckley
+Abdullah Al Jadani
+Carlos Adilson Travisso Rocha
+Lionel M'Pasi
+Markus Scholz
+Martin Spelmann
+藤田 優人
+Meshari Al Thmali
+Jack Bonham
+Romain Matthys
+Pedro Miguel Costa Ferreira
+David Zibung
+Rick Wulle
+João Manuel Neves Virgínia
+Finn Dahmen
+Gary Rogers
+Luca Plogmann
+Joaquín Muñoz
+Yehvann Diouf
+Eric Junior Dina Ebimbe
+Liam Reddy
+Martin Sourzac
+Pascal Grünwald
+Josh Gordon
+Nathan Bishop
+Michael Brouwer
+Oliver  Schnitzler
+Samuele Perisan
+Jérémy Frick
+前田 凌佑
+Christian Dobnik
+Joel Coleman
+Laurentiu Constantin Brănescu
+Sessi D'Almeida
+Alexander Meyer
+Conrad Logan
+Carlos Sierra
+Iven Austbø
+Juan Manuel Pérez Ruiz
+Philipp Köhn
+Yosgart Ernesto Gutiérrez Serna
+이태희 李泰熙
+Christian Joel Sánchez Leal
+Jokin Ezkieta Mendiburu
+张驰
+Carlos Daniel Hidalgo
+Jo Coppens
+Nathan Baxter
+Lukas Jonsson
+José Huber Escobar Giraldo
+Esteban Ruiz
+Luís García
+Anthony Mandrea
+Csongor Fejér
+Pablo Heredia
+Aaron Chapman
+Alejandro Domínguez Romero
+Marian Aioani
+田依浓
+Tony Rocha
+Barry Roche
+이범수 李范洙
+Brendan Clarke
+Svend Brodersen
+Kouadio Manu Koné
+Kellyan Francisco Garcia Leal
+Jaume Valens Cardell
+Utku Yuvakuran
+Stefan van der Lei
+김다솔 Da Sol Kim
+Michael Gardawski
+Caleb Patterson-Sewell
+João Pedro Oliveira Gonçalves
+Tobias Schützenauer
+Tomás Mejías Osorio
+Maicol Giovanny Medina Medina
+大久保 択生
+Aslak Falch
+関宪 太郎
+Noé Maya Vilchis
+Thomas Vincensini
+Cristian Edward Guerra Torres
+Roque Alberto Cardozo Suarez
+Pedro Leonardo Gonçalves Mateus
+Cătălin Căbuz
+Efkan Bekiroglu
+Marek Štěch
+Luca Zinedine Zidane
+Yored Hillel Konaté
+Adrian Lapeña Ruiz
+Ross Stewart
+Gregorio Luperini
+Michael López
+Dinu Bogdan Moldovan
+Justin Lonwijk
+池文一
+Andrew Tarbell
+Hendrik Bonmann
+Adnan Ibrahem Falatah
+Alfie Whiteman
+Marco Hiller
+Pier Luigi Grazziani Serrano
+Philipp Heerwagen
+Francisco Barbosa Vieites
+Kyle Letheren
+Nathan Ferguson
+Luis Alfonso Ureta Medina
+Ahmed Ali Al Kassar
+Ayo Simon Okosun
+Ian Lawlor
+Sander Luan Asevedo Cirino
+Arled Cadavid Valencia
+Facundo Nicolás Cambeses
+Patrik Christoffer Källqvist
+Richard O'Donnell
+Miguel Santos
+Michele Di Gregorio
+Tom Conlon
+Michael Ratajczak
+Aljaž Ivačič
+Andrés Perea
+李帅
+Glen Moss
+Valentín Burgoa
+Théo Guivarch
+Richie Laryea
+Maarten Vandevoordt
+Braian Ojeda
+Nikita Contini
+Waleed Abdullah Ali
+Brian Rocha Araújo
+Daniel Rose
+Ron-Thorben Hoffmann
+Michele Nardi
+Erten Ersu
+Sven Köhler
+周云
+Sven  Müller
+Thomas Dähne
+Quentin Braat
+Daniel Cárdenas Lindez
+Ilya Pomazun
+Tobias Kainz
+Marko Marić
+Arda Akbulut
+Nico Mantl
+Patrick Koronkiewicz
+Harry Burgoyne
+Ioannis Gelios
+Felix Agu
+Gianfranco Gazzaniga
+Edgar Adolfo Hernández Tellez
+Laurent Walthert
+Dragan Rosic
+Lennart Grill
+Cătălin Straton
+Mohamed Airam Ramos Wade
+Jonathan Bond
+Kevin Debaty
+Cyril Ngonge
+Miguel Van Damme
+Avdo Spahic
+Luke McGee
+Taha Cengiz Demirtaş
+송범근 Bum Keun Song
+Vaso Vasić
+José Santiago Hernández García
+Donovan Léon
+罗竞
+Mark Howard
+Robert Olejnik
+Sebastian Patzler
+James Kotei
+Bradley Collins
+유상훈 柳相勋
+Jimmy Maurer
+Eirik Holmen Johansen
+Mirko Eramo
+Glenn Morris
+Diogo Miguel Oliveira Silva
+Übeyd Adıyaman
+Nicolas Kocik
+박일규 朴一圭
+Nelson Arturo Freitosa Ruiz
+Andrés Felipe Mosquera Marmolejo
+Jonathan Beaulieu
+Dennis Telgenkamp
+Tommaso Berni
+Josué Daniel Ayala
+Brian Rowe
+Wladimiro Falcone
+조수혁 赵寿赫
+守田 達弥
+髙木 骏
+Mark Travers
+Carlos Miguel Coronel
+James Shea
+王上源
+Romain Basque
+Maciej Gostomski
+홍정남 洪正男
+Ignacio Peña Sotorres
+Ole Söderberg
+Cody Cropper
+Adam Legzdins
+Jeroen Houwen
+Danijel Petković
+Emanuel Rodrigues Novo
+Adrián López Garrote
+Ihor Berezovskyi
+Umberto Saracco
+Ezequiel Mastrolía
+Damian Węglarz
+Alberto González Cespedosa
+Daniel Haas
+Laros Duarte
+Ingvar Jónsson
+Gustavo Torres
+Milton Raphael Guimarães Pires
+Lawrence Ati Zigi
+Diogo Fesnard Nogueira Sousa
+Bozhidar Konstantinov Mitrev
+Ricardo José Cecília Batista
+Brandt Bronico
+Mark Birighitti
+Delano van Crooij
+Yavuz Aygün
+Tom Müller
+Adam Jakubech
+于大宝
+Ryan Allsop
+Enriko Papa
+Mateusz Lis
+Andrés Colorado
+Ruslan Babenko
+Clément Diop Degoud
+Josh Lillis
+Nuno Alberto Macedo Pereira
+Fabijan Buntić
+İsmail Çipe
+Djordje Nikolić
+Mehdi Jeannin
+Sébastien Rénot
+Thomas Gebauer
+Gudmund Taksdal Kongshavn
+Ángel García Cabezali
+Moritz Nicolas
+Etienne Vaessen
+Assaf Ahmed Al Qarni
+Manuel Kuttin
+Pol Freixanet Viejo
+Gajodara Chatterjee
+Andrea Dini
+Riccardo Piscitelli
+David Gil Mohedano
+Kamil Grabara
+Dimitry Bertaud
+Alasana Manneh
+Yves De Winter
+Maksim Rudakov
+Martin Fraisl
+Edson Gutiérrez
+Sam Walker
+Cosmin Andrei Vâtcă
+Marko Maroši
+Philipp Kühn
+村山 智彦
+Conor Hazard
+Ander Cantero Armendáriz
+Ritchie Kitoko
+Joe Wright
+Jonathan Mitchell
+Alec Kann
+Mickaël Diakota
+Luis Rodrigo Santelices Tello
+Oliver Christensen
+Frans Dhia Putros
+Cristian Fernando Muñoz Hoffman
+Ignacio Jáuregui
+Sergio Felipe Román Palacios
+Anthony Maisonnial
+João Nuno Figueiredo Valido
+Eduard Pap
+Brad Stuver
+Ramiro Macagno
+Andreas Lukse
+Edmundo Iván Vázquez Mellado Pérez
+Edgar Melitón Hernández Cabrera
+Cenk Gönen
+Mustafa Reda Malayekah
+Eric Oelschlägel
+Jorge Luis Deschamps
+Martin Chudý
+Victor Rîmniceanu
+Pedro José Moreira da Silva
+Gabriel Resende Brazão
+Moses Opondo
+Andrei Vlad
+Fabian Herbers
+Paolo Bastianello
+Christy Pym
+Nicolás Gastón Avellaneda
+Max O'Leary
+新井 翔太
+Daniel Barrio Álvarez
+Fernando Hurtado
+Raphael Aflalo Lopes Martins
+Cristian Sleiker Cásseres Yepes
+Jayson Leutwiler
+Álvaro Fernández Llorente
+Paolo Branduani
+Dominik Hładun
+Richard Sánchez
+Mauricio Ariel Caranta
+Marco Carnesecchi
+Joel Graterol
+Håkon Eikemo Opdal
+Paul Delecroix
+Vitor Caetano Ferreira
+Jakub Szmatuła
+Guillermo Allison Revuelta
+Patrick Wiegers
+Ricardo Schuck Friedrich
+Mark Oxley
+Andrew Lonergan
+Noam Baumann
+Steve Kroll
+Michał Buchalik
+Jasper Schendelaar
+Salvador Ichazo
+Nejc Vidmar
+Lucas Hägg-Johansson
+Grégoire Lefebvre
+六反 勇治
+Matt Lampson
+Romario Moise
+Ionuț Biceanu
+Zdeněk Zlámal
+Iván Crespo Secunza
+Tomáš Černý
+Jak Alnwick
+Marco Aurélio Ribeiro Sousa
+刘殿座
+Dante Stipica
+Bruno Ferreira V. Diniz
+Michael Langer
+Wilmar Santiago Londoño Ruiz
+Alexandro Marco Craninx Joostens
+Jamie Lindsay
+Maarten Paes
+Tomasz Loska
+Daniel Iversen
+Sebastián López
+Clint Irwin
+André Grandi
+Stephan Maigaard Andersen
+Merveille Goblet
+Gonzalo Rehak
+Andrea Tabanelli
+Wellington Luís Farias da Silva
+Samuel Portugal Lima
+Andrea Zaccagno
+竹内 涼
+Ferdinand Oswald
+Erce Kardeşler
+Oliver Rathbone
+Joe Bendik
+Fabrizio Alastra
+Luuk Koopmans
+Tom Mickel
+Guillaume Faivre
+Samuel Pérez Fariña
+Colin Doyle
+Papa Demba Oumar Camara
+Connor Krempicki
+Nikita Medvedev
+Bruce Bvuma
+Matt Ingram
+Michał Gliwa
+Okan Kocuk
+Luca Maniero
+Aarón Escandell
+Dean Bouzanis
+Johan Wallens Otálvaro
+Walter Fabián Assmann
+Jakub Markovič
+Javier Díaz Sánchez
+Marc Kibong Mbamba
+Alexander Stolz
+Davide Bassi
+Zlatan Alomerović
+Maximilian Schulze Niehues
+Luis Enrique Delgado Mantilla
+Ažbe Jug
+Jon Kempin
+Pietro Perina
+Christian Früchtl
+Daniel Akpeyi
+Connal Trueman
+吴龑
+Enrique Eduardo Palos Reyes
+Alex Cairns
+Sergio Ruiz Alonso
+Mandé Sayouba
+Tobias Knoflach
+Lucas Raúl Giovini Schiapino
+Josh Vickers
+Sebastián Galani
+Jesper Rask
+Aïssa Laïdouni
+Patrick Kammerbauer
+Jailson Michel Acuna Souza
+Daniel Sappa
+Gastón Gómez
+Bart van Hintum
+Matt Macey
+Ivan Lučić
+Brice Maubleu
+Cesar Augusto Giraldo Peláez
+Giacomo Bindi
+Nicola Ravaglia
+Dejan Stojanović
+Oliver Abildgaard
+Yohann Thuram-Ulien
+Rene Swete
+Anssi Jaakkola
+Alejandro Cobo Padillo
+André  Campos Moreira
+Aly Keita
+Mohamed El-Shenawy
+류원우 刘源佑
+Jhony Alexander da Silva Sosa
+Erik Domaschke
+Jhonathan Doriado
+함석민 咸胜明
+Fábio Szymonek
+Radosław Majecki
+Stephen Henderson
+Rok Vodišek
+大迫 圭介
+Alexander Brunst-Zöllner
+Kevin Fickentscher
+Thibaut  Vion
+Christian Vargas Cortés
+Badr Boulahroud
+Manuel García Humanes
+James Aguirre
+Tomáš Holý
+Alberto Varó Lara
+Lorenzo Andrenacci
+Alexander Kofler
+Juan Camilo Chaverra Martínez
+Robbin Ruiter
+Steve Lawson
+Parfait Mandanda
+Dominik Reimann
+Cameron Dawson
+Simão Verza Bertelli
+Joe Walsh
+Miguel Aires Fernandes Olivera
+杨程
+饭仓 大樹
+Jérôme Prior
+노동건 卢东件
+Tim Boss
+Álvaro Luis Salazar Bravo
+Jonathan Lopera Jiménez
+Baptiste Valette
+Arnaud Bodart
+Matthew Palmer
+Ben Alnwick
+Alan Mannus
+João Paulo Santos da Costa
+Mauricio José Yedro
+Juan Carlos Sánchez Martínez
+Jorn Brondeel
+Pablo González
+Georgi Kitanov
+Steven Whittaker
+Joe Day
+Yanick Brecher
+Daniel Mesenhöler
+Niccolò Manfredini
+Daniel Cerântula Fuzato
+Luis Ernesto Michel Vergara
+Philip Haglund
+Jakub Słowik
+Álvaro Villete Melgar
+João Vitor Lopes da Silva
+Nikos Melissas
+Jens Teunckens
+Matt Gilks
+Alexandre Olliero
+Vitor Gomes Pereira Júnior
+Antonio Donnarumma
+Javier Darío Romo Barrón
+曾端 准
+David Bičík
+Matías Nicolás Cano
+Amidou Diop
+손정현 Jeong Hyeon Son
+Owain Fôn Williams
+David Lazăr
+Alejandro Sánchez
+Ricardo Antonio Jérez Figueroa
+Milton Álvarez
+Ángel Jesús Galván Rivero
+Andrew Redmayne
+Pablo Eduardo Sisniega Fink
+Sebastián Andrés Perez Kirby
+Edson Reséndez
+Will Norris
+Leandro Requena
+Luciano Guaycochea
+Simon Sluga
+Illan Meslier
+Roland Niczuly
+Joe Willis
+William Eskelinen
+Brad Knighton
+David Edward Martin
+Gabriel Eugénio Souza
+James McKeown
+이범영 李范永
+Gil Esaul Alcalá Barba
+Edo Kayembe
+Guillaume Hubert
+Daniel  Omoya Braaten
+Fernando Martínez Rubio
+Seydou Sy
+Arild Østbø
+김호준 金浩军
+Ben Hamer
+Abdelali M'hamdi
+Chris Seitz
+Josh Dasilva
+Patrik Ulf Anders Carlgren
+Scott Davies
+Patrick Drewes
+Nikolay Mihaylov
+Joe Wildsmith
+Siyabonga Mpontshane
+Stefano Gori
+Alessandro Plizzari
+Gaëtan Poussin
+Martin Kobras
+Lee Nicholls
+Larry Angulo
+Stefan Dimitrov Velev
+Even Barli
+Robert Marcus Sandberg
+Filippo Perucchini
+Luca Lezzerini
+Andoni Zubiaurre Dorronsoro
+Simone Aresti
+Simon Pontdemé
+Yerko Urra
+Gaëtan Coucke
+Rafael Simão de Aseiro Vieira
+Louis Bostyn
+Ben Close
+Abdullah Al Mayoof
+Luke Daniels
+Ciprian Ioan Deac
+Anton Mitryushkin
+Mateus Bernardo Tangil Melo
+Evan Bush
+Rémy Descamps
+Yannis Clementia
+Matthieu Dreyer
+Michal Peškovič
+Ryan Meara
+Cristiano Pereira Figueiredo
+Damien Perquis
+Ronwen Williams
+Juan Pablo Gómez Vidal
+Gabriel Ribas Ródenas
+Marco Wölfli
+André Filipe M. Ribeiro Ferreira
+Lee Camp
+Krzysztof Kamiński
+Arthur Desmas
+Rody de Boer
+Arijanet Muric
+Vitus Eicher
+Romário Santos Pires
+Jefferson Nogueira Junior
+Guglielmo Vicario
+Fawaz Al Qarni
+Václav Hladký
+Mario Daniel Vega
+José Devecchi
+Mark Gillespie
+David José Gomes O. Tavares
+Jeff Attinella
+Luis Cárdenas
+Max Grün
+Simon Eastwood
+Ivan Lanni
+程月磊
+Lukas Königshofer
+Nicolai Larsen
+Patricio Álvarez
+Kjell Scherpen
+Dario Esteban Melo Pulgar
+Günay Güvenç
+Enrique Alberto Bologna Gómez
+Tyler Deric
+Jefersson Justino Martínez Valverde
+Cristian Rivero Sabater
+Sebastián Jurado Roca
+Nick Marsman
+シュミット・ダニエル
+Jesper Christjansen
+Bobby Shuttleworth
+Moustapha Zeghba
+Freddie Woodman
+Rodrigo Naranjo
+Andrei Cristea
+Bryan Henning
+Tim Coremans
+Sebastian Mielitz
+Dean Gerken
+Alexander Bono
+Matej Delač
+Rémi Pillot
+Stefan Marinović
+Radosław Cierzniak
+Rahmani Chamseddine
+Paul Izzo
+Víctor Hugo Soto Azcárate
+Felipe Melvin Azevedo Lima
+Murray Davidson
+Philipp Mickel Klewin
+Spencer Richey
+Xavier Mous
+Filipe Vicente Traeira Lopes
+Loïc Badiashile Mukinayi
+Kai Eisele
+Aymen Mathlouthi
+Michael Zetterer
+Yasser Abdullah Al Mosailem
+Sylvain Gbohouo
+George Long
+José Aurelio Suárez García
+Filip Rogic
+Alessandro Iacobucci
+Nordin Jackers
+오승훈 吴舜洪
+Azzeddine Doukha
+Paulo Vítor Fagundes dos Anjos
+木热合买提江·莫扎帕
+林 卓人
+Andreas Leitner
+구성윤 具圣润
+Lukáš Zima
+Miquel Parera Pizá
+Rubén Yáñez Alabart
+Andrés Tomás Prieto Albert
+Randy Nteka
+Sebastián Moyano
+Jamie Jones
+Iván Villar Martínez
+Korcan Çelikay
+Simon Moore
+Alexandru Mateiu
+Georgiy Bushchan
+Nigel Bertrams
+Přemysl Kovář
+Álvaro López Ratón
+Alvino Volpi Neto
+Konstantinos Kotsaris
+Maxence Andre  Prévôt
+Samuel Şahin-Radlinger
+Michael McGovern
+Judson Silva Tavares
+João Miguel Ribeiro Vigário
+Daniel Hernández Santos
+Martin Hansen
+Markus Kuster
+Diego Alejandro Novoa Urrego
+Behrang Safari
+Dillon Phillips
+Gabriel Castellón
+Ádám Kovácsik
+Alexandre Letellier
+John Alvbåge
+Kelle Roos
+Joris Delle
+Hannes Þór Halldórsson
+Oscar Jansson
+Amer Shafi
+최영준 财杨钧
+Ferhat Kaplan
+Ariel Harush
+William Paul Yarbrough Story
+Patrick Pentz
+Michael Simões Domingues
+Wayne Sandilands
+Niklas Lomb
+Josep Martínez Riera
+Luke Steele
+Haris Vučkić
+Amidu Salifu
+Patric Klandt
+Jason Steele
+Danijel Zagorac
+Jamie MacDonald
+Josh Vela
+Boris Radunović
+Denis Rusu
+Christian Kouan
+Andrea Fulignati
+Fernando Carlos De Paul Lanciotti
+André Weis
+Maximiliano Gagliardo
+Fatih Öztürk
+Adam Larsen Kwarasey
+오범석 吴范锡
+Paulo Andrés Garcés Contreras
+Miguel Ángel Pinto Jérez
+Joe Lumley
+Tyler Miller
+Remi Matthews
+Maximiliano Comba
+Pontus Dahlberg
+Marvin  Schwäbe
+Mihai Bordeianu
+Daniel Bentley
+Sébastien Bruzzese
+Ernesto Exequiel Hernández Oncina
+Casto Espinosa Barriga
+김진현 金镇铉
+Jan Zimmermann
+Robert Zwinkels
+Plamen Iliev
+David Bingham
+Filip Bednarek
+Sandro Lauper
+David Button
+Adrian Šemper
+Alberto Pomini
+Anders Lindegaard
+Rubén Cordano
+Liam Kelly
+Jessy Moulin
+Mahmut Ertuğrul Taşkıran
+Ben  Amos
+Eldin Jakupović
+Ufuk Ceylan
+Jens Grahl
+Dani de Wit
+Mile Svilar
+Connor Ripley
+Jeppe Højbjerg
+Quentin Westberg
+Cristian Harson Bonilla Garzón
+Adam Frączczak
+Eric Larsson
+Bobby Allain
+Andrés Leandro Castellanos Serrano
+Roberto Ramírez
+José Ignacio González Catalán
+顾超
+Mathieu Gorgelin
+Marco Knaller
+Fabien Farnolle
+Lucas Pirard
+Anton Kochenkov
+Răzvan Pleșca
+Mads Reginiussen
+Márcio Anderson Vasquez Hoffman
+Daniel Arreola Argüello
+Aaron Ramsdale
+Mikkel Andersen
+Gerardo Ortiz
+権田 修一
+João Lamine Jaquité
+Maximiliano Salas
+Jasmin Fejzić
+Milan Đurić
+Magnus Eriksson
+Timon Wellenreuther
+Markus Kolke
+김승규 金承奎
+Gauthier Gallon
+Daniel Bachmann
+Richard Boateng
+Guillermo Sara
+Carlos Cáceda
+Luiz Philipe Lima de Oliveira
+Mauro Vigorito
+Eike Bansen
+Przemysław Tytoń
+Antonio Rosati
+Christopher Maxwell
+Carlos Lampe
+Peter Abrahamsson
+Denis Petrić
+Nils Körber
+Christoph Riegler
+Michele De Agostini
+Ailton Nuno Cardenhas Macedo
+Sondre Løvseth Rossbach
+David Stockdale
+Haydar Yılmaz
+Juan Cruz Kaprof
+Miguel Kaíque Acuna Mutto
+Yannick Thoelen
+Craig MacGillivray
+Lorenzo Montipò
+Mickey van der Hart
+José Luis Chunga Vega
+Pär Hansson
+Alfredo Aguilar
+Ricardo Abreu Ribeiro
+Mathieu Michel
+Juan Soriano Oropesa
+Muammer Yıldırım
+Borja Galán González
+Ortwin De Wolf
+Marius Gersbeck
+David Blacha
+Santiago Rojas
+Andy King
+Zander Clark
+Gabriel Alonso Suazo Urbina
+Luís Miguel  Coimbra Aurélio
+Altay Bayındır
+Mahmoud Genesh
+Diego Sánchez Carvajal
+José Antonio Caro Díaz
+Trevor Carson
+Valentin Cojocaru
+Bram Castro
+Kevin Stuhr-Ellegaard
+Badra Ali Sangaré
+Mate Maleš
+Erdem Özgenç
+Pablo Andrés Mina Ramírez
+Fabrice Ondoa
+Jannik Huth
+Alfonso Blanco Antúnez
+Benjamin Uphoff
+David Nicolas Andrade
+Carlos Andrés Bejarano Palacios
+Jean-François Gillet
+Luciano Renato Cacheira Sá
+Aleksandar Jovanović
+Declan Rudd
+Maxime Crépeau
+Niki Mäenpää
+Jesse Gonzalez
+Maikel Mesa Piñero
+Hervé Koffi
+Michael Agazzi
+Matt Turner
+Nelson Ibáñez
+David Ousted
+Jhonny Cristián Herrera Muñoz
+Kevin Broll
+Ali Şaşal Vural
+Daniel Martín Fernández
+Frank Fielding
+Owalabi Saturnin Allagbé Kassifa
+Joseph Amoah
+Lucas Matías Licht
+Johannes Brinkies
+Thorsten Kirschbaum
+Mateus Pasinato
+Bailey Peacock-Farrell
+José Borgueray
+Rafael Romo
+Maximiliano Urruti
+Ivan Vargić
+Fabian Bredlow
+Jamie Young
+Colin Coosemans
+Vito Mannone
+Fernando Pellegrino
+Eder Aleixo Chaux Ospina
+Christian Walton
+Lucas Cháves
+Benjamin Leroy
+Jamal Blackman
+Miguel Ángel Fraga Licona
+Diogo Meireles Costa
+Alexandr Maksimenko
+Jed Steer
+Axel Werner
+Oscar Linnér
+Giannis Anestis
+Maxime Dupé
+内田 篤人
+Hakan Arıkan
+Ivan Zlobin
+Andrea Seculin
+Filip Kurto
+Jairo Ralph Farnias Almeida
+John Ruddy
+川島 永嗣
+Darren Keet
+Rob Elliot
+Pāvels Šteinbors
+Ivan Provedel
+Amer Gojak
+Filip Manojlović
+Bartosz Białkowski
+Rúnar Alex Rúnarsson
+Joel Castro Pereira
+Martin Männel
+Raïs M'Bolhi Ouhab
+Lawrence  Thomas
+Vanja Milinković-Savić
+Luís Manuel Arantes Maximiano
+Rafael  Garcia Tonioli Defendi
+Markus Schubert
+양한빈 梁韩彬
+Oleksiy Shevchenko
+Jorge Ruiz Ojeda
+Alexei Koșelev
+Ayaz Guliev
+José Fernando Cuadrado Romero
+Jean-Victor Makengo
+Rubén Iván Martínez Andrade
+Andreas Linde
+Jakob Busk
+Sean McDermott
+Michael Verrips
+Tolgahan Acar
+Per Kristian Worre Bråtveit
+Manuel Riemann
+Alfonso Herrero Peinador
+Marek Rodák
+Maksym Koval
+Johan Dahlin
+Malik Asselah
+Nicolas Haas
+王大雷
+Alberto Paleari
+Giorgos Athanasiadis
+Carlos Acevedo López
+František Plach
+Zacharie Boucher
+Gianluca Pegolo
+Ofir Marciano
+Jovan Stojanović
+Kenneth Kronholm
+Steve Clark
+Marius Müller
+Marc-Aurèle Caillard
+James Igbekeme
+Abdoulaye Diallo
+Manuel Reina Rodríguez
+Augusto Martín Batalla Barga
+Paweł Kieszek
+Matías Ibáñez
+Diego Rodríguez
+Adrián Ortolá Vañó
+Simone Colombi
+Adam Davies
+Pedro José  da Silva Trigueira
+Mirko Bruccini
+Fabian Giefer
+Ramazan Köse
+Arnaud Lusamba
+Nicola Leali
+Rémy Riou
+Zivko Zivkovic
+Alexander Domínguez Carabalí
+Luis Manuel García Palomera
+Martin Victor Álvares Fachini
+林 昭大
+Alessandro Micai
+Geovanni Banguera
+Raúl Fernández-Cavada Mateos
+Alexander Schlager
+Thomas Kessler
+Remko Pasveer
+Manuel Gibran Lajud Bojalil
+Frank Boeckx
+Raúl Lizoáin Cruz
+Oscar Jiménez
+Jeremías Ledesma
+Johan Wiland
+Helton Brant Aleixo Leite
+David Raya Martin
+Lucas Adrián Hoyos
+Christoph Moritz
+강현무 姜贤茂
+Philipp Pentke
+Cristian Campestrini
+David Marshall
+Eduardo Flávio Fonseira Meire
+Denis Cesar de Matos
+Marcel Schuhen
+Tim Howard
+Nathael Walter Silbeira Caeiro
+Kevin Müller
+Jörg Siebenhandl
+Pietro Terracciano
+Janis Blaswich
+Mamadou Samassa
+Sebastián Alberto Torrico
+Scott Bain
+William Dutoit
+정성룡 郑俊玄
+Youssouf M'Changama
+Wiliam Carlos Santoso Sampaio
+David González
+Carlos Felipe Rodríguez Rangel
+Jesse Joronen
+Javier Hernán García
+Nick Rimando
+Bubacarr Trawally
+Adam Federici
+Rui Tiago Dantas da Silva
+Sascha Burchert
+Jon McLaughlin
+Erwin Zelazny
+Esteban Néstor Conde Quintana
+Pavao Pervan
+Martin Hašek
+Mauro Daniel Goicoechea Furia
+Ruud Boffin
+Dan Nicolae Nistor
+Karlo Letica
+Giorgi Makaridze
+Cristopher Benjamín Toselli Ríos
+Daniel Jiménez López
+Hugo Alfonso González Durán
+Cristian Bălgrădean
+Panagiotis Tsintotas
+Leopold Zingerle
+曾诚
+Khalid Eissa
+Warner Hahn
+Robin Himmelmann
+Germán Darío Lux
+Dušan Kuciak
+André Mikael Milazar Santoso
+Kenny Steppe
+Konstantinos Lamprou
+Mitchell Langerak
+Pedro Gallese
+Álvaro David Montero Perales
+Mark Flekken
+Erwin Mulder
+Alfredo Saldívar Medina
+Ken Reichel
+Nicolás Gastón Navarro
+Stefan Ortega Moreno
+Angelo Esmael da Costa Júnior
+Ethan Horvath
+Marcus Bettinelli
+Nereo Champagne
+Luciano Darío Pocrnjic
+권순태 权纯泰
+Mohammed Khalil Al Owais
+Jandrei Chitolina Carniel
+Leonardo Cesar Jardim
+Sean  Johnson
+Felix Wiedwald
+David Jensen
+Farouk Ben Mustapha
+Isak Pettersson
+Dénes Dibusz
+Mohamed Kanno
+Carlo Pinsoglio
+Stole Dimitrievski
+Alberto García Cabrera
+Ørjan  Håskjold Nyland
+Ricardo Abel Barbosa Ferreira
+Alex Cordaz
+Lee Grant
+Raúl Gudiño
+Kristoffer Nordfeldt
+Alex Smithies
+Andreas Luthe
+Antony Domingo Silva Cano
+Sergio Herrera Pirón
+Quentin Beunardeau
+西川 周作
+Amir Abedzadeh
+Markus Henriksen
+Vid Belec
+Matúš Kozáčik
+Simone Scuffet
+Raphael Wolf
+James Léa Siliki
+Joël Drommel
+Brayan Cortés
+Rafael Wihby Bracalli
+Cristian David Lucchetti
+Gregor Kobel
+Sammy Bossut
+Bradley Guzan
+Julian Pollersbeck
+Craig  Gordon
+Eduardo dos Reis Carvalho
+Jhonatan Luiz da Siqueira
+Jean Butez
+Adrián Marín Gómez
+Luke Ayling
+Michael Rensing
+Wes Foderingham
+Scott  Carson
+Nivaldo Mateus Serpa Pombal
+Philipp Tschauner
+Gökhan Akkan
+Predrag Rajkovic
+Ondřej Kolář
+Gautier Larsonneur
+Ahmed Naser Mahmoud Al Shenawy
+Iván Mauricio Arboleda
+Unai Simón Mendibil
+Jamiro Gregory Monteiro Alvarenga
+Giovanni Di Lorenzo
+Ivan Strinić
+Antonio Manuel Luna Rodríguez
+Joe Lewis
+Jaime Tomás Abravanel Mestres
+Milan Heča
+Antonio Sivera Salvá
+Jacob Rinne
+Idriss Carlos Kameni
+Robin Zentner
+Francesco Bardi
+Brad Jones
+Jonas Omlin
+Yoan Cardinale
+Karl Darlow
+Edgar Badía Guardiola
+Fraser Forster
+Uğurcan Çakır
+Stefanos Kapino
+Jean-Louis Leca
+Tim Melia
+Maarten Stekelenburg
+René Román Hinojo
+Anton Shunin
+東口 順昭
+Bingourou Kamara
+Danny Ward
+Alexander Walke
+Artem Rebrov
+Davy Roef
+Marco André Rocha Pereira
+Bartolomé Nadal Mesquida
+Juan Carlos Martín Corral
+Costel Pantilimon
+Hendrik Van Crombrugge
+Bartłomiej Drągowski
+Pierre Tomás Torres De Faria
+Giedrius Arlauskis
+David von Ballmoos
+Carlos Sebastián Sosa Silva
+Mirko Pigliacelli
+Mario Sebastián Viera Galain
+Wuilker Faríñez
+Leonardo Fabián Burián Castro
+Frederico Peter Cabral Bardini
+Matías Dituro
+Alberto Cifuentes Martínez
+Barry Douglas
+Alexandre Oukidja
+Alberto Brignoli
+Paul Nardi
+Federico Marchetti
+Marc Navarro Ceciliano
+Vincent De Marconnay
+Charlie Daniels
+Richard Strebinger
+Enrico Alfonso
+Ezequiel Unsain
+Brice Samba
+Aleš Hruška
+Nicolas Penneteau
+Karl-Johan Johnsson
+Stefan Frei
+Tim Krul
+Vincenzo Fiorillo
+조현우 崔永宇
+Romain Jules Salin
+Tobias Sippel
+José Antonio Rodríguez Romero
+Keiren Westwood
+Charles Marcelo da Silva
+Luis Robles
+Djibril Sow
+Eloy Room
+Nicolás Vikonis Mureau
+Juan José Santigaro
+Bill Hamid
+Yohann Pelé
+Oier Olazábal Paredes
+Munir Mohand Mohamedi
+Rafael Cabral Barbosa
+Milan Borjan
+Justin Bijlow
+Daniel  Heuer Fernandes
+Marco Silvestri
+Sokratis Dioudis
+Ludovic Butelle
+Victorino M. Magela Sá
+Frederik Rønnow
+José Carlos Coentrão Marafona
+Mariano Gonzalo Andújar
+Rodrigo Rey
+Thomas Kaminski
+Heinz Lindner
+Bruno Miguel Semedo Varela
+Marcel Risse
+Daniel Giménez Hernández
+Emanuel Cecchini
+Yoel Rodríguez Oterino
+Cican Stanković
+Diego Orlando Benaglio
+Alfredo Talavera Díaz
+Adriano Leandro Soares Taffarel
+Daniele Padelli
+Agustín Daniel Rossi
+Diego Mariño Villar
+Sandro Tonali
+Cássio Albuquerque dos Anjos
+Asmir Begović
+João Miguel Macedo da Silva
+Darlington Nagbe
+José de Jesús Corona Rodríguez
+Lovre Kalinić
+Darren Randolph
+Mariano Damián Barbosa
+Rafael  de Andrade Bittencourt Pinheiro
+Florin Constantin Niţă
+Pierre Kunde Malong
+Fehmi Mert Günok
+Francisco Casilla Cortés
+Alexis Martín Arias
+Francisco José Beltrán Peinado
+Luigi Sepe
+Allan McGregor
+Paulo Dino Gazzaniga
+Alfred Benjamin Gomis
+Gabriel Vasconelos Ferreira
+Pablo Nicolás Dárenas
+Thomas Kraft
+Yves Bissouma
+Silviu Lung
+André Luís Gomes Simões
+Marcelo Barovero
+Jonas Lössl
+Danny Vukovic
+Florian Müller
+Rafał Gikiewicz
+Ramazan Özcan
+Sam Johnstone
+Emiliano Martínez
+Sergio Álvarez Conde
+Yuriy Lodygin
+Vasilios Barkas
+Wayne  Hennessey
+Davide Santon
+Scott Brown
+Neil Etheridge
+Matteo Darmian
+Javier López Rodríguez
+Alexander Nübel
+Rodolfo Cota Robles
+Tiago Magalhães de Sá
+Jesper Hansen
+Wilfredo Daniel Caballero
+Simão Alvin Donatinho Garcia
+Artur Boruc
+Christian Mathenia
+Volkan Babacan
+Sten Michael Grytebust
+Cristian Darío Álvarez
+Ionuţ Andrei Radu
+Kaíque Osvaldo Castro Rodrigues
+颜骏凌
+Dean Henderson
+Rubén Blanco Veiga
+Adam Smith
+André Hansen
+Alejandro Remiro Gargallo
+Matheus Lima Magalhães
+Leonardo de Matos Cruz
+Andriy Lunin
+Guido Herrera
+Silvio Proto
+Rodrigo Aliendro
+Marcelo Grohe
+Gedson Carvalho Fernandes
+Oscar Wendt
+Łukasz Skorupski
+Harun Tekin
+Sinan Bolat
+Pierluigi Gollini
+Aitor Fernández
+Kenneth Vermeer
+Thomas Didillon
+Fred Marcos Aníbal Dias
+António Alberto Bastos Pimparel
+Yvon Mvogo
+Zack Steffen
+Etrit Berisha
+Angus Gunn
+Sergio Padt
+Adrián San Miguel del Castillo
+Jaume Domenech Sánchez
+Dušan Basta
+Alan Aguerre
+Alex McCarthy
+Andre Blake
+Heurelho da Silva Gomes
+Badou Ndiaye
+Marcos Guillermo Díaz
+Lars Unnerstall
+Serkan Kırıntılı
+Callum McGregor
+Nelson Arturo Reis Lopes
+Denys Boyko
+Jonathan Emmanuel Orozco Domínguez
+Leandro Chichizola
+Fabricio Martín Agosto Ramírez
+Alexandros  Paschalakis
+Yassine Bounou
+Tomáš Koubek
+Michael Esser
+Régis Gurtner
+Adam Marušić
+Sergio Rico González
+Renan Ribeiro
+Marco Sportiello
+Joe Hart
+Iván Cuéllar Sacristán
+Roberto Jiménez Gago
+Paul Bernardoni
+Emil Audero
+Marco Bizot
+Cláudio Pires de Morais Ramos
+Daryl Janmaat
+Edouard Mendy
+Andriy Pyatov
+Baptiste Reynet
+Claudio Andrés Bravo Muñoz
+Camilo Andrés Vargas Gil
+Douglas Renato de Jesus
+Francisco Guillermo Ochoa Magaña
+Martín Campaña
+Itumeleng Khune
+Alexander Schwolow
+Andrés Eduardo Fernández Moreno
+Alexandr Selikhov
+Orestis Karnezis
+José Pedro Malheiro de Sá
+Denis Lemi Zakaria Lako Lado
+Robin Olsen
+Marwin Hitz
+Gabriel Arias
+Juan Musso
+Guilherme Alvim Marinato
+Alex Meret
+Ron-Robert Zieler
+Matz Sels
+Jack Butland
+Joel Robles Blázquez
+Agustín Marchesín
+Simon Mignolet
+Antonio Mirante
+Mathieu Debuchy
+Bernard Gabriel Prestão Chaves
+Nick Pope
+Daniel Caligiuri
+Andrey Lunev
+José Ángel Valdés Díaz
+Vicente Guaita Panadero
+Anton Ciprian Tătărușanu
+Sven Ulreich
+Leandro Miguel Sáreda
+Iago Herrerín Buisán
+Alban Lafont
+Nahuel Ignacio Guzmán
+Loris Karius
+Tom Heaton
+Mike Maignan
+Martin Dúbravka
+Ben Foster
+Miguel Ángel Moyá Rumbo
+Benoît Costil
+Franco Armani
+Nicolò Barella
+Esteban Andrada
+Walter Benítez
+Mathew Ryan
+Dominik Livaković
+Jeroen Zoet
+Steve Mandanda
+Ralf Fährmann
+Diego López Rodríguez
+David Ospina Ramírez
+Igor Akinfeev
+Jorge Ezequiel Serendero
+Odisseas Vlachodimos
+Sergio Germán Romero
+Danijel Subašić
+Marko Dmitrović
+Timo Horn
+Marcos Javier Acuña
+Andrea Consigli
+Gerónimo Rulli
+Tomáš Vaclík
+Alessio Cragno
+Antonio Adán Garrido
+Jordi Masip López
+Fernando Muslera
+David Soria Solís
+Thomas Strakosha
+André Onana
+José Manuel  Reina Páez
+Emiliano Viviano
+Benjamin Lecomte
+Alphonse Areola
+Mattia Perin
+Sergio  Asenjo Andrés
+Raphael William Anjos Rochedo
+Łukasz Fabiański
+Oliver Baumann
+Fernando Pacheco Flores
+Pau López Sabata
+Koen Casteels
+Kasper Schmeichel
+Jasper Cillessen
+Lukáš Hrádecký
+Rune  Almenning Jarstein
+Rui Pedro dos Santos Patrício
+Iker Casillas Fernández
+Kevin Trapp
+Jordan Pickford
+Gianluigi Buffon
+Stéphane Ruffier
+Salvatore Sirigu
+Kepa Arrizabalaga
+Jiří Pavlenka
+Bernd Leno
+Yann Sommer
+Gianluigi Donnarumma
+Roman Bürki
+Péter Gulácsi
+Norberto Murara Neto
+Anthony Lopes
+Wojciech  Szczęsny
+Keylor Navas
+Hugo Lloris
+Samir Handanovič
+Ederson Santana de Moraes
+Manuel Neuer
+Thibaut Courtois
+David De Gea Quintana
+Alisson Ramses Becker
+Marc-André ter Stegen
+Jan Oblak
