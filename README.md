@@ -25,7 +25,11 @@ Since, one player can play from more than one position, we identified our proble
 2. Random Forest
 
 We explored Sklearn's multi-label classifiers as well as built our own one-vs-all ensemble models for this purpose. Architectures for both the approaches are shown below:
+1. Sklearn Multi-label classifier
 
+![sklearn-archi](https://user-images.githubusercontent.com/58865447/98627319-cd69d200-22c8-11eb-9a19-da5848a08eb1.png)
+
+2.
 
 ### Outputs
 
