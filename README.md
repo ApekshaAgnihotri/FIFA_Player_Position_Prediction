@@ -29,11 +29,35 @@ We explored Sklearn's multi-label classifiers as well as built our own one-vs-al
 
 ![sklearn-archi](https://user-images.githubusercontent.com/58865447/98627319-cd69d200-22c8-11eb-9a19-da5848a08eb1.png)
 
-2.
+2. Ensemble Models classifier
+
+![Ensemble-Archi](https://user-images.githubusercontent.com/58865447/98627413-0f931380-22c9-11eb-8caf-524dc6061eb5.png)
+
 
 ### Outputs
+For test records, the model first recommends top three player suitable for a particular position. 
+
+![output-1](https://user-images.githubusercontent.com/58865447/98627540-51bc5500-22c9-11eb-9da5-1a07a115e8a0.png)
 
 
-### Results
+### Model Performance
+We identified that our class distribution is imbalanced, hence we selected F1-Score to evaluate our model's performance.
+
+For multi-label classifiers, Random Forest performed the best with 82.65% F1-score.
+![Screenshot from 2020-11-09 20-23-23](https://user-images.githubusercontent.com/58865447/98627800-e921a800-22c9-11eb-9759-c8634ff6359c.png)
+
+For one-vs-all ensemble models, again Random Forest performed the best with 95.70% 
+![Screenshot from 2020-11-09 20-24-35](https://user-images.githubusercontent.com/58865447/98627904-2d14ad00-22ca-11eb-80ae-84504fc11fd1.png)
+
+
+## Model Tunining
+We also captured model's behaviour while tuning it. Please find the results below
+
+K-fold Validation Results
+![Screenshot from 2020-11-09 20-23-36](https://user-images.githubusercontent.com/58865447/98627985-5b928800-22ca-11eb-80c5-b512f9e5c8c7.png)
+
+Random Forest tuning
+![Screenshot from 2020-11-09 20-30-51](https://user-images.githubusercontent.com/58865447/98628061-82e95500-22ca-11eb-9d8d-7bdf29afed2e.png)
+
 
 
